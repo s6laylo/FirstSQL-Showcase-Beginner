@@ -36,7 +36,7 @@ Progress
 - [x] Exercise 3 - Select the oldest album
 - [x] Exercise 4 - Get bands that have albums
 - [x] Exercise 5 - Get bands that have no albums
-- [ ] Exercise 6 - Get the longest album
+- [x] Exercise 6 - Get the longest album
 - [ ] Exercise 7 - Update an album's release year
 - [ ] Exercise 8 - Insert a band and album
 - [ ] Exercise 9 - Delete a band and album
