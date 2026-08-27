@@ -30,29 +30,19 @@ I'm completing the exercises individually and saving my solutions as I go so tha
 
 Progress
 
-Exercise 1 - Create the songs table (DONE)
 
-Exercise 2 - Select band names
-
-Exercise 3 - Select the oldest album
-
-Exercise 4 - Get bands that have albums
-
-Exercise 5 - Get bands that have no albums
-
-Exercise 6 - Get the longest album
-
-Exercise 7 - Update an album's release year
-
-Exercise 8 - Insert a band and album
-
-Exercise 9 - Delete a band and album
-
-Exercise 10 - Get the average song length
-
-Exercise 11 - Select the longest song from each album
-
-Exercise 12 - Get the number of songs for each band
+- [x] Exercise 1 - Create the songs table
+- [ ] Exercise 2 - Select band names
+- [ ] Exercise 3 - Select the oldest album
+- [ ] Exercise 4 - Get bands that have albums
+- [ ] Exercise 5 - Get bands that have no albums
+- [ ] Exercise 6 - Get the longest album
+- [ ] Exercise 7 - Update an album's release year
+- [ ] Exercise 8 - Insert a band and album
+- [ ] Exercise 9 - Delete a band and album
+- [ ] Exercise 10 - Get the average song length
+- [ ] Exercise 11 - Select the longest song from each album
+- [ ] Exercise 12 - Get the number of songs for each band
 
 Tools
 
