@@ -32,7 +32,7 @@ Progress
 
 
 - [x] Exercise 1 - Create the songs table
-- [ ] Exercise 2 - Select band names
+- [x] Exercise 2 - Select band names
 - [ ] Exercise 3 - Select the oldest album
 - [ ] Exercise 4 - Get bands that have albums
 - [ ] Exercise 5 - Get bands that have no albums
